@@ -6,9 +6,21 @@ const jwt = require("jsonwebtoken");
 require("dotenv").config();
 const port = process.env.PORT || 5000;
 
+const category = require("./db/category.json");
+const books = require("./db/book.json");
 app.get("/", (req, res) => {
-  res.send("Horse Game is runnning...");
+  res.send("weero library is runnning...");
 });
 app.listen(port, () => {
-  console.log(`Horse Game is running on ${port}`);
+  console.log(`weero library is running on ${port}`);
 });
+
+app.get('/categories',(req,res)=>{
+  res.send(category)
+})
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+  const booksAll = books.filter((n) => n.categoryId === id);
+  res.send(booksAll);
+});
+

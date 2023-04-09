@@ -1,0 +1,194 @@
+[
+  {
+    "id": "01",
+    "categoryId": "1",
+    "img": "https://www.peterharrington.co.uk/blog/wp-content/uploads/2023/02/158632-Salinger-scaled.jpg",
+    "name": "The Catcher in the Rye",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 10.99
+  },
+  {
+    "id": "02",
+    "categoryId": "1",
+    "img": "https://cdn2.penguin.com.au/covers/original/9781784752637.jpg",
+    "name": "To Kill a Mockingbird",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 12.99
+  },
+  {
+    "id": "03",
+    "categoryId": "1",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.fFaX7nKq5_5gf2nSI3QEUgHaLK&pid=Api&P=0",
+    "name": "The Great Gatsby",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 9.99
+  },
+  {
+    "id": "4",
+    "categoryId": "1",
+    "img": "https://tse3.explicit.bing.net/th?id=OIP.wcZjPkH4FZD5QYi_2kfxxAHaLS&pid=Api&P=0",
+    "name": "Pride and Prejudice",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 8.99
+  },
+  {
+    "id": "05",
+    "categoryId": "1",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.jxtUxyB8J73Yt3vNW-MbhQHaLG&pid=Api&P=0",
+    "name": "The Picture of Dorian Gray",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 7.99
+  },
+  {
+    "id": "6",
+    "categoryId": "1",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.912agcyM2jCZwrtcdPHikAHaMK&pid=Api&P=0",
+    "name": "Jane Eyre",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 11.99
+  },
+  {
+    "id": "07",
+    "categoryId": "2",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.N3Lg1zL6Ke4SQwhruUPwmQHaLM&pid=Api&P=0",
+    "name": "The 7 Habits of Highly Effective People",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 14.99
+  },
+  {
+    "id": "8",
+    "categoryId": "2",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.21h165mwytm7i3qASR1JvQHaLf&pid=Api&P=0",
+    "name": "How to Win Friends and Influence People",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 16.99
+  },
+  {
+    "id": "09",
+    "categoryId": "2",
+    "img": "https://tse1.mm.bing.net/th?id=OIP._1DxjC8Vvx1h11KhCfADhwHaE8&pid=Api&P=0",
+    "name": "Atomic Habits",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 9.99
+  },
+  {
+    "id": "10",
+    "categoryId": "2",
+    "img": "http://1.bp.blogspot.com/-T-d3JPMr-Uk/UPshLuidy6I/AAAAAAAAFbU/vOiHd0qgnC4/s1600/lean-startup_book-cover.jpeg",
+    "name": "The Lean Startup",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 17.99
+  },
+  {
+    "id": "11",
+    "categoryId": "2",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.scuoZ3-P1DWrzt4tJfDg5AHaMa&pid=Api&P=0",
+    "name": "Good to Great",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 12.99
+  },
+  {
+    "id": "12",
+    "categoryId": "2",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.1G0wVTJoWEJyeUSifgPOJAHaJ4&pid=Api&P=0",
+    "name": "The Power of Now",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 8.99
+  },
+  {
+    "id": "13",
+    "categoryId": "3",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.EvuW7YdSMrWtg_V3cvh98gHaLr&pid=Api&P=0",
+    "name": "Dune",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 19.99
+  },
+  {
+    "id": "14",
+    "categoryId": "3",
+    "img": "https://tse1.mm.bing.net/th?id=OIP.Feb1TYvV9oJxV1x_WeEyTgHaLw&pid=Api&P=0",
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 12.99
+  },
+  {
+    "id": "15",
+    "categoryId": "3",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.n0tZZdC8maTk4BMLcTKFoAHaLY&pid=Api&P=0",
+    "name": "Brave New World",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 11.99
+  },
+  {
+    "id": "16",
+    "categoryId": "3",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.emrJ-Z-sDElMm0vdALkjKwHaJ4&pid=Api&P=0",
+    "name": "1984",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 14.99
+  },
+  {
+    "id": "17",
+    "categoryId": "3",
+    "img": "https://tse4.mm.bing.net/th?id=OIP.I7R1wmCARUf5RIvgxkpbcAHaLb&pid=Api&P=0",
+    "name": "The Martian",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 13.99
+  },
+  {
+    "id": "18",
+    "categoryId": "3",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.wH89IIWd0StwJomMdwHkVwHaLb&pid=Api&P=0",
+    "name": "Ready Player One",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 16.99
+  },
+  {
+    "id": "19",
+    "categoryId": "4",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.GBGpHOWRdf0Ahu2p-SJ07wHaHa&pid=Api&P=0",
+    "name": "Joy of Cooking",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 19.99
+  },
+  {
+    "id": "20",
+    "categoryId": "4",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.178qoWRvnUnESb6gz-GWNgHaJ4&pid=Api&P=0",
+    "name": "Mastering the Art of French Cooking",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 22.99
+  },
+  {
+    "id": "21",
+    "categoryId": "4",
+    "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51CVxpmJXvL._SX423_BO1,204,203,200_.jpg",
+    "name": "The Complete Vegetarian Cookbook",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 17.99
+  },
+  {
+    "id": "22",
+    "categoryId": "4",
+    "img": "https://i5.walmartimages.com/asr/2314834c-52cb-428e-9144-c1f158548c13_1.c00a03ea280c3a284eb3e6ac0c109c39.jpeg",
+    "name": "How to Cook Everything",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 23.99
+  },
+  {
+    "id": "23",
+    "categoryId": "4",
+    "img": "https://tse2.mm.bing.net/th?id=OIP.hn0LlqbEeZ7xAeHWxT0lhQHaJH&pid=Api&P=0",
+    "name": "The Joy of Vegan Baking",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 20.99
+  },
+  {
+    "id": "24",
+    "categoryId": "4",
+    "img": "https://tse3.mm.bing.net/th?id=OIP.HZTcFytffHak27SD3bv9YgHaJk&pid=Api&P=0",
+    "name": "The Essential Instant Pot Cookbook",
+    "des": "The Life Lessons is the book about self education and principles eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+    "price": 18.99
+  }
+]
